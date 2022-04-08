@@ -71,7 +71,7 @@ function datenotice() {
   }
 }
 $done({
-title:"老子明天不上班ǐ",
+title:"ǐ节假日ǐ",
 icon:"calendar.badge.clock",
 'icon-color': "#00BFFF",
 content:tlist[nowlist][0]+" : "+today(tnumcount(nowlist))+"天 "+tlist[Number(nowlist) + Number(1)][0] +" : "+ tnumcount(Number(nowlist) + Number(1))+ "天  "+tlist[Number(nowlist) + Number(2)][0]+" : "+tnumcount(Number(nowlist) + Number(2))+"天"
